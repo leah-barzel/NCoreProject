@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Data\\Solid.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\Solid.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\Solid.Core.csproj",
+        "projectName": "Solid.Core",
+        "projectPath": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\Solid.Core.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Nuget Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Data\\Solid.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Data\\Solid.Data.csproj",
+        "projectName": "Solid.Data",
+        "projectPath": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Data\\Solid.Data.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Nuget Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "D:\\הוראה סמינרים\\NET Core קורס\\Solid.Net\\Solid.Core\\Solid.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
